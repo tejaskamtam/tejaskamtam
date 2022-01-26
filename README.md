@@ -1,7 +1,7 @@
 ##  Tejas Kamtam
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tejaskamtam)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=blue&color=gainsboro)](https://www.linkedin.com/in/tejaskamtam/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tejaskamtam)
+[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tejaskamtam)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=gainsboro)](https://www.linkedin.com/in/tejaskamtam/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tejaskamtam)
 
 Welcome to my GitHub!
 
