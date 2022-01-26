@@ -1,11 +1,17 @@
-### Hi there 👋
-
+##  Tejas Kamtam
+[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tejaskamtam)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/tejaskamtam/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tejaskamtam)
+### 🔭 Projects
+### 💻 Languages
+### 📈 Stats
+### 🌱 Courses/Certifications
 <!--
 **tejaskamtam/tejaskamtam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- ⏳ I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
