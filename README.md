@@ -28,7 +28,7 @@ I'm an undergraduate Computer Science student at UCLA with a particular interest
 [![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![NodeJS](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/-flask-222222?style=for-the-badge&logo=flask&logoColor=white)](https://jupyter.org/)
 
 ### 📈 Stats
