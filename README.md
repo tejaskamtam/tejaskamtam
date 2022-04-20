@@ -5,7 +5,7 @@
 
 Welcome to my GitHub!
 
-I'm an undergraduate Computer Science student at UCLA with a particular interest in AI and Finance.
+I'm an undergrad Computer Science student at UCLA with a particular interest in AI and Finance.
 
 ### 🔭 Projects
 ### 💻 Languages
