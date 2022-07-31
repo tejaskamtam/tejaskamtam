@@ -1,11 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import TopNav from "./TopNav";
+import SideNav from "./SideNav";
+import Menu from "./Menu";
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <>
+      <TopNav />
+      <SideNav />
+      <Menu />
+    </>
   );
 }
 
