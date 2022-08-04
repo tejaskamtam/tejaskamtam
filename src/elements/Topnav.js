@@ -12,20 +12,26 @@ export default function Topnav() {
             <Navbar
                 bg="dark"
                 sticky="top"
-                expand="lg"
+                expand="md"
                 variant="dark"
                 collapseOnSelect
             >
-                <img src="https://picsum.photos/50" href="#home"></img>
-                <Navbar.Brand href="#home">Tejas Kamtam</Navbar.Brand>
+                <img
+                    className="px-3"
+                    src="https://picsum.photos/50"
+                    href="#about"
+                ></img>
+                <Navbar.Brand href="#about">Tejas Kamtam</Navbar.Brand>
                 <Navbar.Toggle />
                 <Navbar.Collapse>
-                    <Nav>
+                    <Nav className="col justify-content-end">
                         <Nav.Link href="#about">01. About</Nav.Link>
                         <Nav.Link href="#experience">02. Experience</Nav.Link>
                         <Nav.Link href="#projects">03. Projects</Nav.Link>
                         <Nav.Link href="#contact">04. Contact</Nav.Link>
-                        <Button href="#resume">Resume</Button>
+                        <Button className="mx-3" href="#resume">
+                            Resume
+                        </Button>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>

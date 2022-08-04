@@ -1,4 +1,5 @@
-#  Tejas Kamtam
+# Tejas Kamtam
+
 [![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tejaskamtam)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=gainsboro)](https://www.linkedin.com/in/tejaskamtam/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tejaskamtam)
@@ -8,14 +9,15 @@ Welcome to my GitHub!
 I'm an undergrad Computer Science student at UCLA with a particular interest in AI and Finance.
 
 ### 🔭 Projects
+
 ### 💻 Languages
+
 [![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![NumPy](https://img.shields.io/badge/-numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/-jupyter-767677?style=for-the-badge&logo=jupyter&logoColor=orange)](https://jupyter.org/)
-
 
 [![C++](https://img.shields.io/badge/-c%2b%2b-teal?style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://www.cplusplus.com/)
 [![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=black)](https://www.cplusplus.com/)
@@ -32,7 +34,9 @@ I'm an undergrad Computer Science student at UCLA with a particular interest in 
 [![Flask](https://img.shields.io/badge/-flask-222222?style=for-the-badge&logo=flask&logoColor=white)](https://jupyter.org/)
 
 ### 📈 Stats
+
 ### 🌱 Courses/Certifications
+
 <!--
 **tejaskamtam/tejaskamtam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
