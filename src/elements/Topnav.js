@@ -17,14 +17,14 @@ export default function Topnav() {
                 collapseOnSelect
             >
                 <img
-                    className="px-3"
+                    className="px-2"
                     src="https://picsum.photos/50"
                     href="#about"
                 ></img>
                 <Navbar.Brand href="#about">Tejas Kamtam</Navbar.Brand>
                 <Navbar.Toggle />
                 <Navbar.Collapse>
-                    <Nav className="col justify-content-end">
+                    <Nav navbarScroll className="col justify-content-end">
                         <Nav.Link href="#about">01. About</Nav.Link>
                         <Nav.Link href="#experience">02. Experience</Nav.Link>
                         <Nav.Link href="#projects">03. Projects</Nav.Link>
