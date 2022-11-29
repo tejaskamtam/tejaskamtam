@@ -1,4 +1,5 @@
 # Tejas Kamtam
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tejaskamtam">
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tejaskamtam)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=gainsboro)](https://www.linkedin.com/in/tejaskamtam/)
@@ -33,10 +34,8 @@ I'm an undergrad Computer Science student at UCLA with a particular interest in 
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/-flask-222222?style=for-the-badge&logo=flask&logoColor=white)](https://jupyter.org/)
 
-### 📈 Stats
-
 ### 🌱 Courses/Certifications
-
+<a src="https://coursera.org/share/fec125f4285f2b721732ceadb86743b7">DeepLearning.Ai</a>
 <!--
 **tejaskamtam/tejaskamtam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
