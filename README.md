@@ -6,7 +6,7 @@
 
 Welcome to my GitHub!
 
-I'm an undergrad Computer Science student at UCLA with a particular interest in AI and Finance.
+Computer Science student at UCLA working on AI Safety and Quantitative Financial Analysis.
 
 ### 🔭 Projects
 
