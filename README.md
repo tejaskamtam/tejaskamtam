@@ -1,5 +1,7 @@
 # Tejas Kamtam
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tejaskamtam">
+-->
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/tejaskamtam/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tejaskamtam)
